@@ -1,0 +1,6 @@
+settings.json
+memory.db
+chats/
+webhook_url.txt
+__pycache__/
+bot.log
