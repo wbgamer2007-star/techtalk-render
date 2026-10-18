@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Render-এর জন্য র‍্যাপার। techtalk_termux_v3_1.py একদম অপরিবর্তিত থাকে।
+"""Render-এর জন্য র‍্যাপার। techtalk_termux_v3_2.py একদম অপরিবর্তিত থাকে।
 - বট ভেতরে 127.0.0.1:8081-এ চলে (যেমন ফোনে চলত)
 - এই ফাইল Render-এর পাবলিক PORT-এ শুনে:
     /webhook  -> সরাসরি বটে (Meta-র জন্য)
